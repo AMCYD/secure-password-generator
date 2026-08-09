@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="20260718_144547.jpg" alt="VantSyrax Ultimate Crypto Vault Logo" width="400" hight="400"/>
+  <img src="images/syrax-logo.jpg" alt="VantSyrax Ultimate Crypto Vault Logo" width="400" hight="400"/>
 </p>
 
 ## VantSyrax Ultimate Crypto
